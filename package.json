@@ -1,0 +1,12 @@
+{
+  "name": "rohit",
+  "version": "1.0.0",
+  "description": "this product is going to create by rohit ojha which is awesome coder ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
